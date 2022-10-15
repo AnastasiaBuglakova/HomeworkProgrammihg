@@ -37,6 +37,7 @@ Console.WriteLine("Max=" + max);*/
 
 /* Напишите программу, которая на вход принимает число (N), а на выходе показывает все чётные числа от 1 до N.*/
 // int Result = Num % 10;
+/*
 Console.WriteLine("Please, enter number:");
 int N = Convert.ToInt32(Console.ReadLine());
 int i = 2;
@@ -44,4 +45,4 @@ while (i <= N)
 {
     Console.Write(i + " ");
     i+=2;
-}
+}*/
